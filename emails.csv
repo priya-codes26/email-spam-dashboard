@@ -1,0 +1,11 @@
+text,label
+"Congratulations! You won a free prize",spam
+"Claim your free cash reward now",spam
+"Win a free mobile phone today",spam
+"Click here to claim your lottery prize",spam
+"Get free money by clicking this link",spam
+"Hello, can we meet tomorrow?",ham
+"Please send me the project report",ham
+"Your meeting is scheduled for Monday",ham
+"Thank you for your email",ham
+"Can you call me when you are free?",ham
